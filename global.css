@@ -24,7 +24,7 @@ body, button, input, select, table, textarea {
     margin: -1px;
     overflow: hidden;
 }
-.logo_naver::before, .ico_search_btn, .ico_mail, .shop::before, .shoplive::before, .ico_tv, .btn_more::after, .ico_keybord, .ico_arr, .link_set::after, .ico_jrnaver, .ico_happybin, .ico_naver, .look_box::before, .link_join::before, .btn_prev::before, .btn_next::before, .link_media::after, .link_newsstand::before, .link_newsstand::after, .ico_list, .ico_tile, .ico_set,
+.logo_naver::before, .ico_search_btn, .ico_mail, .shop::before, .shoplive::before, .ico_tv, .btn_more::after, .ico_keybord, .ico_arr, .link_set::after, .ico_jrnaver, .ico_happybin, .ico_naver, .look_box::before, .link_join::before, .btn_prev::before, .btn_next::before, .link_media::after, .link_newsstand::before, .link_newsstand::after, .ico_list, .ico_tile, .ico_set, .btn_set::before, .ico_btn, .badge_vlive, .pm_ico_play,
 .scroll_top_btn::before, .darkmode_btn{
    background-image:url(https://s.pstatic.net/static/www/img/uit/2021/sp_main_4efc7a.png);
    -webkit-background-size: 440px 408px;
